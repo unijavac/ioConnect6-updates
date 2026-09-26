@@ -1,12 +1,12 @@
 {
-  "version": "3.23",
+  "version": "3.24",
   "target": "esp32",
   "hardware": "ESP32-S",
-  "fileName": "ioConnect6_3.23.enc",
+  "fileName": "ioConnect6_3.24.enc",
+  "url": "https://update.io-connect.pl/ioConnect6_3.24.enc",
   "size": 987648,
-  "sha256": "54f7f9cc8ba0514f7200c8fb00dd29855f9e24aa4f952f4dc0943e76b0048db1",
+  "sha256": "7b5a2c17a57d45ee90c073545a77ae9539ccf610a4bd3281cb17803ac27bb4b3",
   "encrypted": true,
   "encryption": "esp_encrypted_img-rsa3072-aesgcm",
-  "releaseNotes": "Firmware 3.23 - pierwszy zaszyfrowany OTA ioConnect6.",
-  "url": "https://update.io-connect.pl/ioConnect6_3.23.enc"
+  "releaseNotes": "Firmware 3.24 - wznowienie aktywnego harmonogramu po powrocie zasilania."
 }

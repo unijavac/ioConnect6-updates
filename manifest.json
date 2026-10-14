@@ -1,9 +1,9 @@
 {
-  "version": "3.28",
+  "version": "3.29",
   "target": "esp32",
   "hardware": "ESP32-S",
-  "fileName": "ioConnect6_3.28.enc",
+  "fileName": "ioConnect6_3.29.enc",
   "size": 987648,
-  "sha256": "731ae2e09347a45a749749c406d08cdb9928aba80719d655629591337014e467",
-  "url": "https://update.io-connect.pl/ioConnect6_3.28.enc"
+  "sha256": "9f518ec9ba584a9adf9119a0d4fdffcba1ca2fa8b1b61c3c9c5d1a2f14eac9b9",
+  "url": "https://update.io-connect.pl/ioConnect6_3.29.enc"
 }
